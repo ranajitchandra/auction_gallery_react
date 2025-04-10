@@ -1,0 +1,20 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+.banner{
+    background-image: url(https://i.ibb.co.com/CpSCZSmR/Banner-min.jpg);
+    height: 450px;
+    width: 100%;
+    background-size: 140%;
+    background-position: left 60%;
+    background-repeat: no-repeat;
+}
+.row-img{
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+}
+.custom-spinner {
+    transform: scale(2);
+  }

@@ -1,0 +1,58 @@
+
+[
+    {
+      "id": 1,
+      "title": "Vintage Pocket Watch",
+      "description": "An antique pocket watch in excellent condition, circa 1920.",
+      "currentBidPrice": 150,
+      "timeLeft": "2d 5h",
+      "bidsCount": 12,
+      "image": "https://i.ibb.co.com/MD6QRzZ2/Watch.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Wireless Headphones",
+      "description": "Brand new over-ear headphones with active noise cancellation.",
+      "currentBidPrice": 89,
+      "timeLeft": "1d 3h",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co.com/FbP9yzHP/Headphone.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Gaming Laptop",
+      "description": "High-performance laptop suitable for gaming and development.",
+      "currentBidPrice": 1099,
+      "timeLeft": "3d 10h",
+      "bidsCount": 25,
+      "image": "https://i.ibb.co.com/FqnHb2N6/gaming-laptop.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Mountain Bike",
+      "description": "Durable and lightweight mountain bike with 21-speed gear system.",
+      "currentBidPrice": 310,
+      "timeLeft": "4d 2h",
+      "bidsCount": 18,
+      "image": "https://i.ibb.co.com/4RHkVwyH/Bike.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Smart Watch",
+      "description": "Fitness and health tracking smart watch with customizable faces.",
+      "currentBidPrice": 75,
+      "timeLeft": "5h 20m",
+      "bidsCount": 14,
+      "image": "https://i.ibb.co.com/pvhb8TxW/smart-watch.png"
+    },
+    {
+      "id": 6,
+      "title": "Signed Football Jersey",
+      "description": "Autographed jersey from a legendary football player.",
+      "currentBidPrice": 450,
+      "timeLeft": "1d 8h",
+      "bidsCount": 22,
+      "image": "https://i.ibb.co.com/tPckkpQn/football-jersey.jpg"
+    }
+  ]
+  
